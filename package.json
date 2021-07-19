@@ -1,7 +1,7 @@
 {
-  "name": "spwoobkycord",
+  "name": "Vortex",
   "version": "2.0.0",
-  "description": "King of the quotes in China",
+  "description": "King of the administrator",
   "main": "index.js",
   "dependencies": {
     "alexa-bot-api": "^0.1.4",
